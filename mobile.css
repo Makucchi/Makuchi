@@ -1,0 +1,21 @@
+@media only screen and (max-width: 955px){
+    span{
+        font-size: 20px;
+    }
+    header img{
+        width: 20px;
+        height: 20px;
+    }
+    a{
+        font-size: 15px;
+    }
+    header{
+        height: 50px;
+    }
+    #bg{
+        padding-top: 50px;
+    }
+    p{
+        font-size: 15px;
+    }
+}

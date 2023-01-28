@@ -1,0 +1,35 @@
+#about{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+}
+#about h1{
+    color: aliceblue;
+    font-size: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    
+}
+#about p{
+    color: whitesmoke;
+    flex-wrap: wrap;
+    font-size: 30px;
+    text-align: center;
+    border-top: 1px;
+    border-bottom: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-style: solid;
+    padding-top: 10px;
+    
+}
+b{
+    color: rgb(39, 255, 75);
+}
